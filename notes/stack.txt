@@ -1,0 +1,13 @@
+Stack
+-> Stack is a linear data structure and where the elements could be added or deleted at one open end called the top of the stack.
+-> that means we cannot add any element anywhere of the stack or delete an element from anywhere.
+-> It is only the top end where an element could be added or deleted in stack.
+-> In stack the element follows 'Last In First Out Order' typically called 'LIFO'.
+-> i.e. The element added first will be deleted last and the element add last will be deleted first.
+-> Insertion into the stack is called 'push' operation.
+-> Deletion from the stack is called 'pop' operation.
+-> That means if we need to add an element into the stack we need to call the push operation.
+-> and if we want to delete the top element then we need to call the pop operation.
+-> If the stack is full, then it is said to be in 'Overflow' state and push is rejected if stack is overflow.
+-> If the stack is empty, then it is said to be in 'Underflow' state and pop is rejected if stack is underflow.
+
